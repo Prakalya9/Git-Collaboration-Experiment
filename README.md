@@ -1,4 +1,4 @@
-# Git-Collaboration-Experiment
+
 # Git Collaboration Experiment
 
 This repository demonstrates Git and GitHub collaboration.
